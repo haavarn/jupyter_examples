@@ -1,2 +1,2 @@
 # jupyter_examples
-Notebooks exploring DSP, simulations, python, data science.
+Ever since I decided to have python as my go-to language, I've wanted to make a small code library where I keep track of what I've made and learnt. That never happened, until now. I will use this repo for exploring things I want to learn or already have, in the beginning related to DSP which I've got more MATLAB experience with. I will probably interleave some multivariate data-methods before eventually go into simulation and more Python exploration. We'll see!
