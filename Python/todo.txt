@@ -1,0 +1,50 @@
+pyFFTW
+
+os:
+    if not os.path.exists("snapshots"):
+        os.makedirs("./snapshots")
+
+Generators:
+    http://book.pythontips.com/en/latest/generators.html
+
+Built in functions:
+    https://docs.python.org/3/library/functions.html#func-tuple
+
+Python standard library:
+    https://docs.python.org/3/library/index.html
+
+Logging, debugging, exception handling:
+    https://realpython.com/python-logging/
+
+GUI (tkinter, pyqt):
+    ---
+
+Cython:
+    https://github.com/cython/cython/wiki
+    http://book.pythontips.com/en/latest/python_c_extension.html
+
+Numba:
+    ---
+
+Parallel computing:
+    Threads
+    Multiprocessing
+    Numba
+    C / CUDA
+    pyCUDA
+    Theano
+    ... misc efficiency things. datatypes np.float64() etc
+
+Functools:
+    https://docs.python.org/3.7/library/functools.html
+    https://stackoverflow.com/questions/15331726/how-does-functools-partial-do-what-it-does
+    https://pymotw.com/2/functools/index.html
+
+Containers:
+    https://docs.python.org/3.7/library/collections.html
+    map/filter/reduce
+    pandas dataframe
+
+Numpy:
+Aica2 = Aica/Aica.sum(axis=1)[:,None]
+
