@@ -1,3 +1,8 @@
+DSP:
+Tangent vector (Duda, pattern), shift invariant representation of signal.
+    Spectrogram? Set rewind phases?
+
+
 pyFFTW
 
 os:
@@ -29,6 +34,7 @@ Numba:
 Parallel computing:
     Threads
     Multiprocessing
+        https://sebastianraschka.com/Articles/2014_multiprocessing.html
     Numba
     C / CUDA
     pyCUDA
@@ -47,4 +53,10 @@ Containers:
 
 Numpy:
 Aica2 = Aica/Aica.sum(axis=1)[:,None]
+
+ICA:
+    Blind deconvolution
+    Convolutive Mixtures
+    potential cisco project, 4 mics.
+    Non-negative matrix factorization
 
